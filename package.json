@@ -1,0 +1,43 @@
+{
+    "name": "night-times",
+    "displayName": "Night Times",
+    "description": "Awesome dark themes",
+    "publisher": "EliHeist",
+    "icon": "images/nighttimesicon.png",
+    "version": "1.0.2",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eliHeist/night-times"
+    },
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "keywords": [
+        "eli",
+        "heist",
+        "dark",
+        "theme",
+        "dark theme",
+        "night times",
+        "night",
+        "times",
+        "eliheist"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night Times",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night Times-color-theme.json"
+            },
+            {
+                "label": "Night Times Alt",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night Times Alt-color-theme.json"
+            }
+        ]
+    }
+}
