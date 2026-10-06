@@ -119,9 +119,11 @@
         "input.placeholderForeground": "#a6a6a6",
         "textLink.foreground": "#ff0048",
 		// tabs
+        "tab.activeBackground": "#22282E",
+		"tab.activeForeground": "#f1efef",
 		"tab.inactiveBackground": "#191b24",
 		"tab.border": "#ccc1",
-		"editorGroupHeader.tabsBackground": "#181921",
+		"editorGroupHeader.tabsBackground": "#332b3b",
 		"scrollbarSlider.background": "#ccf1",
         "scrollbarSlider.hoverBackground": "#ccf5",
         "scrollbarSlider.activeBackground": "#ccf2",
